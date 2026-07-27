@@ -1,0 +1,274 @@
+
+<!DOCTYPE html>
+<html amp lang="en-ID">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Juara288 | Platform Demo Slot Gacor Pragmatic Play Mahjong Wins SSL Terbaru 2026</title>
+    <meta name="description" content="Juara288 menjadi platform slot gacor terpopuler karena menghadirkan permainan demo mahjong wins dari provider pragmatic play untuk pengguna agar menemukan games gampang menang dengan keamanan SSL terbaru 2026." />
+    <meta name="robots" content="INDEX,FOLLOW" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://asupansnack.site/img/juara/icon.webp" rel="shortcut icon" type="image/x-icon" />
+    <link rel="canonical" href="https://jjuara288.store/" />
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    
+    <style amp-boilerplate> body {-webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;-moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;-ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;animation: -amp-start 8s steps(1, end) 0s 1 normal both }@-webkit-keyframes -amp-start {from {visibility: hidden }to {visibility: visible }}@-moz-keyframes -amp-start {from {visibility: hidden }to {visibility: visible }}@-ms-keyframes -amp-start {from {visibility: hidden }to {visibility: visible }}@-o-keyframes -amp-start {from {visibility: hidden }to {visibility: visible }}@keyframes -amp-start {from {visibility: hidden }to {visibility: visible }}</style> <noscript> <style amp-boilerplate> body {-webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none }</style> </noscript>
+    
+    <style amp-custom> 
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Montserrat', sans-serif;
+            /* Tema Hitam & Gold */
+            background-color: #000;
+            background-image: radial-gradient(circle at center, #1a1a1a 0%, #000 100%);
+            color: #fff;
+            min-height: 100vh;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+
+        /* Overlay Emas Halus */
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 0;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, rgba(212, 175, 55, 0.05) 50%, rgba(0,0,0,0.9) 100%);
+        }
+
+        .bg-glow {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 500px;
+            height: 500px;
+            background: radial-gradient(circle, rgba(212, 175, 55, 0.15) 0%, transparent 70%);
+            opacity: 0.3;
+            border-radius: 50%;
+            filter: blur(80px);
+            z-index: -1;
+        }
+
+        .logo-img {
+            position: relative;
+            z-index: 2;
+            width: 200px;
+            height: auto;
+            filter: drop-shadow(0 0 10px #ede506);
+            margin-bottom: 25px;
+        }
+
+        .banner-card {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 15px;
+            overflow: hidden;
+            border: 2px solid #ede506;
+            box-shadow: 0 0 20px #ede506;
+            margin-bottom: 25px;
+            position: relative;
+            background: #111;
+        }
+
+        .btn-stack {
+            width: 100%;
+            max-width: 400px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        /* Desain Button Mewah */
+        .btn-card {
+            background: linear-gradient(135deg, #1a1a1a 0%, #000 100%);
+            border: 1px solid #ede506;
+            border-radius: 12px;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: 0.3s;
+        }
+
+        .btn-card:hover {
+            border-color: #fff;
+            box-shadow: 0 0 15px #ede506;
+            transform: scale(1.02);
+        }
+
+        .btn-label {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding-left: 5px;
+        }
+
+        .btn-text {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .btn-title {
+            font-family: 'Cinzel', serif;
+            font-weight: 900;
+            font-size: 16px;
+            color: #ede506; /* Gold */
+            letter-spacing: 1px;
+        }
+
+        .btn-sub {
+            font-size: 10px;
+            color: #ffffff;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            opacity: 0.8;
+        }
+
+        .icon-box {
+            width: 38px;
+            height: 38px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #ede506;
+            border-radius: 8px;
+        }
+
+        .action-link {
+            text-decoration: none;
+            padding: 12px 25px;
+            border-radius: 8px;
+            font-weight: 700;
+            font-size: 12px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+
+        /* Tombol Gold Solid */
+        .btn-solid {
+            background: linear-gradient(to bottom, #ede506, #ede506, #ede506);
+            color: #000;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+        }
+
+        .btn-solid:hover {
+            background: #fff;
+            color: #000;
+        }
+
+        /* Tombol Outline Gold */
+        .btn-outline {
+            border: 1.5px solid #ede506;
+            color: #ede506;
+        }
+
+        .btn-outline:hover {
+            background: #ede506;
+            color: #000;
+        }
+
+        .btn-link {
+            border: 1px solid #ede506;
+            color: #fff;
+        }
+
+        .copyright {
+            margin-top: 30px;
+            font-size: 11px;
+            color: #ede506;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-glow"></div>
+
+    <a href="https://seobapak.xyz/juara288/">
+        <amp-img class="logo-img" src="https://asupansnack.site/img/juara/logo.gif" alt="Logo JUARA288" width="300" height="120" layout="fixed"></amp-img>
+    </a>
+
+    <div class="banner-card">
+        <amp-img src="https://asupansnack.site/img/juara/j-3.jpg" width="500" height="500" layout="responsive" alt="Banner JUARA288"></amp-img>
+    </div>
+
+    <div class="btn-stack">
+        <div class="btn-card">
+            <div class="btn-label">
+                <div class="icon-box">
+                    <amp-img src="https://asupansnack.site/img/juara/icon.webp" width="24" height="12" alt="icon" layout="fixed"></amp-img>
+                </div>
+                <div class="btn-text">
+                    <span class="btn-title">LOGIN</span>
+                    <span class="btn-sub">SITUS GACOR</span>
+                </div>
+            </div>
+            <a href="https://seobapak.xyz/juara288/" class="action-link btn-solid">MASUK</a>
+        </div>
+
+        <div class="btn-card">
+            <div class="btn-label">
+                <div class="icon-box">
+                    <amp-img src="https://asupansnack.site/img/juara/icon.webp" width="24" height="12" alt="icon" layout="fixed"></amp-img>
+                </div>
+                <div class="btn-text">
+                    <span class="btn-title">DAFTAR</span>
+                    <span class="btn-sub">AKUN VIP JUARA288</span>
+                </div>
+            </div>
+            <a href="https://seobapak.xyz/juara288/" class="action-link btn-solid">DAFTAR</a>
+        </div>
+
+        <div class="btn-card">
+            <div class="btn-label">
+                <div class="icon-box">
+                    <amp-img src="https://asupansnack.site/img/juara/icon.webp" width="24" height="12" alt="icon" layout="fixed"></amp-img>
+                </div>
+                <div class="btn-text">
+                    <span class="btn-title">LIVE CHAT</span>
+                    <span class="btn-sub">24/7 SUPPORT</span>
+                </div>
+            </div>
+            <a href="https://seobapak.xyz/juara288/" class="action-link btn-outline">CHATTING</a>
+        </div>
+
+        <div class="btn-card">
+            <div class="btn-label">
+                <div class="icon-box">
+                    <amp-img src="https://asupansnack.site/img/juara/icon.webp" width="24" height="12" alt="icon" layout="fixed"></amp-img>
+                </div>
+                <div class="btn-text">
+                    <span class="btn-title">ALTERNATIF</span>
+                    <span class="btn-sub">LINK ANTI BLOKIR</span>
+                </div>
+            </div>
+            <a href="https://seobapak.xyz/juara288/" class="action-link btn-link">AKSES</a>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="banner-card">
+        <a href="https://seobapak.xyz/juara288/">
+            <amp-img src="https://asupansnack.site/img/juara/logo.gif" width="800" height="133" layout="responsive" alt="Banner Tiger138"></amp-img>
+        </a>
+    </div>
+
+    <div class="footer-badge">
+        <p class="copyright">JUARA288 &copy; 2026. Powered by BOLOLO.</p>
+    </div>
+</body>
+</html>
